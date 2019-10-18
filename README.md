@@ -1,2 +1,2 @@
-# sweeterconfigs
+# Sweeter Configs
 Random Configs
