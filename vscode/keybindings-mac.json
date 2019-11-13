@@ -1,0 +1,22 @@
+// Place your key bindings in this file to override the defaults
+[
+   {
+      "key": "shift+cmd+[Semicolon]",
+      "command": "workbench.action.terminal.new"
+   },
+   {
+      "key": "cmd+r",
+      "command": "-workbench.action.reloadWindow",
+      "when": "isDevelopment"
+   },
+   {
+      "key": "cmd+r",
+      "command": "editor.action.commentLine",
+      "when": "editorTextFocus && !editorReadonly"
+   },
+   {
+      "key": "shift+cmd+7",
+      "command": "-editor.action.commentLine",
+      "when": "editorTextFocus && !editorReadonly"
+   }
+]
