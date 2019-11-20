@@ -2,8 +2,6 @@
    "telemetry.enableTelemetry": false,
    "telemetry.enableCrashReporter": false,
    "explorer.decorations.colors": false,
-   "workbench.editor.enablePreviewFromQuickOpen": false,
-   "workbench.editor.enablePreview": false,
    "files.eol": "\n",
    "workbench.startupEditor": "newUntitledFile",
    "editor.matchBrackets": false,
