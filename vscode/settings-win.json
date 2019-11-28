@@ -1,0 +1,28 @@
+{
+   "telemetry.enableTelemetry": false,
+   "telemetry.enableCrashReporter": false,
+   "explorer.decorations.colors": false,
+   "files.eol": "\n",
+   "workbench.startupEditor": "newUntitledFile",
+   "editor.matchBrackets": false,
+   "git.ignoreLegacyWarning": true,
+   "git.enableSmartCommit": true,
+   "git.autofetch": true,
+   "explorer.confirmDelete": false,
+   "editor.tabSize": 4,
+   "editor.minimap.enabled": true,
+   "git.confirmSync": false,
+   "explorer.confirmDragAndDrop": false,
+   "window.zoomLevel": 0,
+   "editor.renderWhitespace": "all",
+   "files.exclude": {
+      "**/.git": false
+   },
+   "matlab.mlintpath": "C:/Program Files/MATLAB/R2019b/bin/win64/mlint",
+   "files.associations": {
+      "*.m": "matlab"
+   },
+   "latex-workshop.view.pdf.viewer": "tab",
+   "latex-workshop.latex.autoBuild.run": "onFileChange"
+
+}
