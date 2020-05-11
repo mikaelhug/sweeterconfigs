@@ -26,6 +26,7 @@ apahflfit2015.samsung.com
 e12767.d.akamaiedge.net
 reddit.map.fastly.net
 (^|\.)ctmail\.com$
+(^|\.)sublimetext\.com$
 (^|\.)samsung\.com$
 (^|\.)googlesyndication\.com$
 (^|\.)doubleclick\.net$
