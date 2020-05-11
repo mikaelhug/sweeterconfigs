@@ -1,0 +1,14 @@
+{
+    "editor.matchBrackets": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "git.ignoreLegacyWarning": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "editor.renderWhitespace": "all",
+    "explorer.confirmDragAndDrop": false,
+    "files.exclude": {
+        "**/.git": false
+},
+"editor.minimap.enabled": false,
+"explorer.confirmDelete": false
+}
